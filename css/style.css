@@ -1,0 +1,28 @@
+.menu {
+  background-color: purple;
+}
+
+.title {
+  color: black;
+  text-transform: uppercase;
+}
+
+.nav__link {
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0 0 0 1rem;
+}
+
+.intro-section {
+  background-color: gray;
+}
+
+.second-section {
+  background-color: whitesmoke;
+}
+
+.footer-sm {
+  background-color: black;
+  color: white;
+}
